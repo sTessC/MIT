@@ -1,7 +1,7 @@
 # MIT Assignments
  
 This repository has my assignments for the MIT x Pro course: Professional Certificate in Coding: Women's Cohort (April 2021).
-Visit my [MITxPro-Projects Repository](https://github.com/sTessC/MITxPro-Projects) are the folers for each of the assignments described below. 
+Visit my [MITxPro-Projects Repository](https://github.com/sTessC/MITxPro-Projects) to view the folers for each of the assignments described below. 
 
 <br/>
 
