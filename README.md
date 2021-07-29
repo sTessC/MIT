@@ -1,6 +1,7 @@
 # MIT Assignments
  
-This repository has my assignments for the MIT x Pro course: Professional Certificate in Coding: Women's Cohort (April 2021).
+This repository has my assignments for the MIT x Pro course: Professional Certificate in Coding: Women's Cohort (April 2021). 
+<link href="https://getbootstrap.com/docs/5.0/examples/navbars/" here> are the folers for each of the assignments described below. 
 
 <br/>
 
