@@ -11,7 +11,12 @@ This exercise includes a web-page where a PacMan moves accross the screen. The P
 
 <br/>
 
-### PacMan Exercie
+### Eyes Exercie
 <img src = "Eyes/eyesPhoto.png" height = '100' /> 
 
-This exercise includes a web-page where two eyes to follow the cursor.
+This exercise includes a web-page where two eyes move around to follow the cursor.
+
+### Bus Tracking Exercie
+<img src = "BusTracking/mitMap.jpg" height = '100' /> 
+
+This exercise includes a web-page the shows the location of bus stops between Harvard and MIT. The location marker starts and MIT, once the button to show bus stops is pressed, the marker moves every second to each bus stop until it reaches Harvard.
