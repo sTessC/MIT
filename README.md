@@ -16,6 +16,7 @@ This exercise includes a web-page where a PacMan moves accross the screen. The P
 <img src = "Eyes/eyesPhoto.png" height = '100' /> 
 
 This exercise includes a web-page where two eyes move around to follow the cursor.
+[Here](https://github.com/sTessC/Eyes)
 
 ### Bus Tracking Exercie
 <img src = "BusTracking/mitMap.jpg" height = '100' /> 
