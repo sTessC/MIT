@@ -9,6 +9,7 @@ Visit my [MITxPro-Projects Repository](https://github.com/sTessC/MITxPro-Project
 <img src = "PacMan/PacMan1.png" height = '100' /> 
 
 This exercise includes a web-page where a PacMan moves accross the screen. The PacMan should reverse the direction that it is moving and the direction that it is facing when it reaches the end of the screen.   
+[PacMan Repo](https://github.com/sTessC/PacMan)
 
 <br/>
 
